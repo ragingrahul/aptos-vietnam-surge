@@ -1,0 +1,6 @@
+[submodule "surge-contracts"]
+	path = surge-contracts
+	url = https://github.com/ragingrahul/surge-aptos-contracts.git
+[submodule "surge-client"]
+	path = surge-client
+	url = https://github.com/ragingrahul/surge-landing.git
